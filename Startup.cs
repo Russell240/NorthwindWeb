@@ -35,7 +35,7 @@ namespace NorthwindWeb
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context =>
+                endpoints.MapGet("/hello", async context =>
                 {
                     await context.Response.WriteAsync("Hello World!");
                 });
