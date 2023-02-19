@@ -21,3 +21,14 @@ C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.dll
 C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\ref\NorthwindWeb.dll
 C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.pdb
 C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.genruntimeconfig.cache
+C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.RazorAssemblyInfo.cache
+C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.RazorAssemblyInfo.cs
+C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.TagHelpers.input.cache
+C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.TagHelpers.output.cache
+C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.RazorCoreGenerate.cache
+C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\Razor\pages\index.cshtml.g.cs
+C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.RazorTargetAssemblyInfo.cs
+C:\Users\flahe\source\repos\NorthwindWeb\bin\Debug\net5.0\NorthwindWeb.Views.dll
+C:\Users\flahe\source\repos\NorthwindWeb\bin\Debug\net5.0\NorthwindWeb.Views.pdb
+C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.Views.pdb
+C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.csproj.CopyComplete
