@@ -32,3 +32,5 @@ C:\Users\flahe\source\repos\NorthwindWeb\bin\Debug\net5.0\NorthwindWeb.Views.dll
 C:\Users\flahe\source\repos\NorthwindWeb\bin\Debug\net5.0\NorthwindWeb.Views.pdb
 C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.Views.pdb
 C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.csproj.CopyComplete
+C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\Razor\pages\_Layout.cshtml.g.cs
+C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\Razor\pages\_ViewStart.cshtml.g.cs

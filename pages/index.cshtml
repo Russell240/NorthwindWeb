@@ -4,10 +4,21 @@
     public string DayName {get; set;}
     public void OnGet()
     {
+        ViewData["Title"]= "Northwind.Website";
         Model.DayName= DateTime.Now.ToString("dddd");
     }
 }
-<p>
-    Its @Model.DayName! Our Customers include restaraunts , hotels and cruise lines. 
-</p>
+
+<div class="jumbotron">
+                <h1 class="display-3">
+                    Welcome to Northwind !  </h1>
+                <p class="lead"> We supply products to our customers </p> <hr>
+               <p>
+    It's @Model.DayName! Our customers include restaraunts , hotels and cruise lines.
+                </p>
+               
+                <p><a class="btn btn-primary" href="suppliers"> Learn more about our suppliers  </a>
+                </p>
+  </div>   
+
 
