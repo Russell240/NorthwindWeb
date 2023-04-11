@@ -1,8 +1,9 @@
-using Microsoft.AspNetCore.Mvc.Razor; 
+using Microsoft.AspNetCore.Mvc.Razor;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Collections.Generic; 
 
 
-namespace NorthWindWeb.Pages
+namespace NorthwindWeb.Pages
 {
     public class SuppliersModel : PageModel 
     {
