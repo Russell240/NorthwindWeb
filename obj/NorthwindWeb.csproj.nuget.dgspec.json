@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flahe\\source\\repos\\NorthwindWeb\\NorthwindWeb.csproj": {}
+    "C:\\Users\\flahe\\source\\repos\\Russell240\\NorthwindWeb\\NorthwindWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flahe\\source\\repos\\NorthwindWeb\\NorthwindWeb.csproj": {
+    "C:\\Users\\flahe\\source\\repos\\Russell240\\NorthwindWeb\\NorthwindWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flahe\\source\\repos\\NorthwindWeb\\NorthwindWeb.csproj",
+        "projectUniqueName": "C:\\Users\\flahe\\source\\repos\\Russell240\\NorthwindWeb\\NorthwindWeb.csproj",
         "projectName": "NorthwindWeb",
-        "projectPath": "C:\\Users\\flahe\\source\\repos\\NorthwindWeb\\NorthwindWeb.csproj",
+        "projectPath": "C:\\Users\\flahe\\source\\repos\\Russell240\\NorthwindWeb\\NorthwindWeb.csproj",
         "packagesPath": "C:\\Users\\flahe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flahe\\source\\repos\\NorthwindWeb\\obj\\",
+        "outputPath": "C:\\Users\\flahe\\source\\repos\\Russell240\\NorthwindWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flahe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,13 +39,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

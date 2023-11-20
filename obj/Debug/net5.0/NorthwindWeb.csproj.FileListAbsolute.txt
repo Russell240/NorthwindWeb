@@ -35,3 +35,13 @@ C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.csproj.Co
 C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\Razor\pages\_Layout.cshtml.g.cs
 C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\Razor\pages\_ViewStart.cshtml.g.cs
 C:\Users\flahe\source\repos\NorthwindWeb\obj\Debug\net5.0\Razor\pages\suppliers.cshtml.g.cs
+C:\Users\flahe\Source\Repos\Russell240\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.csproj.AssemblyReference.cache
+C:\Users\flahe\Source\Repos\Russell240\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flahe\Source\Repos\Russell240\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.AssemblyInfoInputs.cache
+C:\Users\flahe\Source\Repos\Russell240\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.AssemblyInfo.cs
+C:\Users\flahe\Source\Repos\Russell240\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.csproj.CoreCompileInputs.cache
+C:\Users\flahe\Source\Repos\Russell240\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\flahe\Source\Repos\Russell240\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.RazorAssemblyInfo.cache
+C:\Users\flahe\Source\Repos\Russell240\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.RazorAssemblyInfo.cs
+C:\Users\flahe\Source\Repos\Russell240\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.dll
+C:\Users\flahe\Source\Repos\Russell240\NorthwindWeb\obj\Debug\net5.0\NorthwindWeb.pdb
